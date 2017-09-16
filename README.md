@@ -10,5 +10,7 @@ Google Places API demo app
 
 ## Screenshots
 
-![Screenshot1](screenshots/screen_1.png) ![Screenshot2](screenshots/screen_2.png) ![Screenshot3](screenshots/screen_3.png)
-![Screenshot4](screenshots/screen_4.png) ![Screenshot5](screenshots/screen_5.png) ![Screenshot6](screenshots/screen_6.png)
+![tugas2 1](https://user-images.githubusercontent.com/22079815/30511414-c0e995c0-9b02-11e7-9693-e2f861cf3350.JPG)
+![tugas2 2](https://user-images.githubusercontent.com/22079815/30511412-c05c17ae-9b02-11e7-8d1f-de9d69253c05.JPG)
+![tugas2 3](https://user-images.githubusercontent.com/22079815/30511413-c06201fa-9b02-11e7-93eb-d14a7477bc55.JPG)
+
