@@ -1,7 +1,7 @@
 # ShushMe
 Google Places API demo app
 
-##Identitas
+## Identitas
 ### Nama    : Alifia Putri Ramadhani
 ### Kelas   : XIRPL6
 ### No      : 03
